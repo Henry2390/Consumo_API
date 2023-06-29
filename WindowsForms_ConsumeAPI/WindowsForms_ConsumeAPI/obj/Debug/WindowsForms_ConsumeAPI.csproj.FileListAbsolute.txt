@@ -1,0 +1,14 @@
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.exe.config
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.exe
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.pdb
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.Form1.resources
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.Properties.Resources.resources
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.GenerateResource.cache
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.CopyComplete
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.exe
+C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.pdb

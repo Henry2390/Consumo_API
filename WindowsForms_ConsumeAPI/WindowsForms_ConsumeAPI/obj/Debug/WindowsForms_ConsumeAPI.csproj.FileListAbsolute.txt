@@ -12,3 +12,17 @@ C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeA
 C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.CopyComplete
 C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.exe
 C:\Users\hvalvaradoz\Documents\Visual Studio 2022\Practica\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.pdb
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.exe.config
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.exe
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\WindowsForms_ConsumeAPI.pdb
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.AssemblyReference.cache
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.SuggestedBindingRedirects.cache
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.Form1.resources
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.Properties.Resources.resources
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.GenerateResource.cache
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.csproj.CopyComplete
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.exe
+C:\Github\Consumo_API\WindowsForms_ConsumeAPI\WindowsForms_ConsumeAPI\obj\Debug\WindowsForms_ConsumeAPI.pdb
